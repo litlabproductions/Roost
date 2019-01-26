@@ -1,0 +1,19 @@
+This is unity's new PBR shader. You can change the edge color,edge thickness,dissolve over time or Manually,and .many more.
+
+You can Change the "value" to adjust the dissolving.
+
+Open the demo scene for a good understanding.
+
+No licence required you can use this commercially. :)
+
+Make sure you are using a LWRP.
+
+No license Require you can use this comercially for your projects.
+
+1) Use HDR for the color for a better glowing Edge. 
+
+2) A higher value of noise give you better result. 
+
+3) Don't increase the edge glow to much it can cause some bad effect. 
+
+Thanks for Downloading.     :)

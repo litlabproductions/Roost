@@ -1,0 +1,7 @@
+Low poly tire with pbr material.
+Material contain 3 textures(2048*2048px): diffuse (Albedo), normal map, metallic texture (with adjusted smoothness)
+All textures are applied and adjusted.
+Mesh is fitted to Unity measurement system.
+
+	***How to use***
+Just drag and drop model from "Prefabs" folder into the scene view or hierarchy window. If necessary, add needed components, like rigidbody or collider.

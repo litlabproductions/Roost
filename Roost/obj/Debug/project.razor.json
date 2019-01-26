@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\LLP\\Games\\Roost\\Game\\1_10_19\\LWRP\\Roost\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

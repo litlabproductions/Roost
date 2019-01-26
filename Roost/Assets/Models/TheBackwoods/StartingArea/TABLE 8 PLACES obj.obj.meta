@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 229f26c3b5754854fa413d64b1f908dd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0
+    100006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1
+    100008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2
+    100010: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3
+    100012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1
+    100014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_bloc
+    100016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3
+    100018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED
+    100020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1
+    100022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2
+    100024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1
+    100026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Tube
+    100028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre
+    100030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1
+    100032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2
+    100034: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3
+    400000: Cube
+    400002: //RootNode
+    400004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0
+    400006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1
+    400008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2
+    400010: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3
+    400012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1
+    400014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_bloc
+    400016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3
+    400018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED
+    400020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1
+    400022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2
+    400024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1
+    400026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Tube
+    400028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre
+    400030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1
+    400032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2
+    400034: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3
+    2100000: CubeMat
+    2100002: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0Mat
+    2100004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1Mat
+    2100006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2Mat
+    2100008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3Mat
+    2100010: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1Mat
+    2100012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_blocMat
+    2100014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3Mat
+    2100016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIEDMat
+    2100018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1Mat
+    2100020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2Mat
+    2100022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1Mat
+    2100024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_TubeMat
+    2100026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_CylindreMat
+    2100028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1Mat
+    2100030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2Mat
+    2100032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3Mat
+    2300000: Cube
+    2300002: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0
+    2300004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1
+    2300006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2
+    2300008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3
+    2300010: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1
+    2300012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_bloc
+    2300014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3
+    2300016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED
+    2300018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1
+    2300020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2
+    2300022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1
+    2300024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Tube
+    2300026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre
+    2300028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1
+    2300030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2
+    2300032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3
+    3300000: Cube
+    3300002: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0
+    3300004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1
+    3300006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2
+    3300008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3
+    3300010: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1
+    3300012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_bloc
+    3300014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3
+    3300016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED
+    3300018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1
+    3300020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2
+    3300022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1
+    3300024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Tube
+    3300026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre
+    3300028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1
+    3300030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2
+    3300032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3
+    4300000: Cube
+    4300002: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0
+    4300004: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_1
+    4300006: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_2
+    4300008: TABLE___CHAISES_1_4_CHAISES_Chaise_ok_0_3
+    4300010: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Extrusion_1
+    4300012: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_bloc
+    4300014: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Cube_3
+    4300016: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED
+    4300018: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_1
+    4300020: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_PIED_Couvercle_2
+    4300022: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Sym_trie_Cube_1
+    4300024: TABLE___CHAISES_1_4_TABLE_OK_Neutre_Pieds_Tube
+    4300026: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre
+    4300028: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_1
+    4300030: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_2
+    4300032: TABLE___CHAISES_1_4_TABLE_OK_Neutre_SOUS_LA_TABLE_Cylindre_3
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
