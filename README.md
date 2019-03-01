@@ -7,27 +7,21 @@
 ## Description:
 * 3D Motocross Game 
 * Physics-Based using an old Unity Asset Store Pack  
-    * Developer: [JustInvoke](https://github.com/JustInvoke)
-    * Asset: [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
-    * My current rate of progress is mainly due to these kind words:<br/><br/>
+    * Asset:     [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
+    * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
+    * My rate of progress is mainly due to these kind words:<br/><br/>
      > "VehicleBalance:  
      &nbsp;&nbsp;&nbsp;&nbsp;This script is meant for ***balancing vehicles such as motorcycles***.  
      &nbsp;&nbsp;&nbsp;&nbsp;This script is not completely stable, but  
-     &nbsp;&nbsp;&nbsp;&nbsp;I decided to include it anyways ***in case some people want to experiment with it"***
-    
+     &nbsp;&nbsp;&nbsp;&nbsp;I ***decided to include it anyways in case some people want to experiment with it."***  
 
-
-
-
-![roost12](https://user-images.githubusercontent.com/34845402/52687154-84bf9200-2f05-11e9-9e79-e5ebcfd64a99.png)
 ***
 ![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
 
 #### Find constant updates here:
 https://www.instagram.com/litlabproductions/
 
-
-
+# Start of Template --> To be removed
 
 ## Instructions:  -->(Header 2)
 
