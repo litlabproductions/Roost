@@ -1,6 +1,6 @@
 # Roost
 
-#### 3D mototcross game based on replicating 250/450cc dirt bikes  
+#### 3D Mototcross Game Based on Replicating 250/450cc Dirt Bikes  
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
@@ -19,14 +19,33 @@
 
 There is only one build in this project.  
 It's located in the `builds` folder.  
-Specifically, [/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
+[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
 
 
 ## Features
-* 3D Motocross Game  
-* 100% Physics-Based  
-* Low Poly Design  
-
+* Physics-Based Movement  
+    * Fully responsive suspension simulation defined by 20+ parameters  
+    * Rigged bike model with lightning fast animation updates  
+    * Variable System of balance  
+        * Auto/manual roll over at speed = x.yz  
+    * Automatic/Manual Transmission  
+    * Wheel colliders  
+        * Realistic rotation speed/traction  
+* New 18.3 Lightweight Render Pipeline  
+    * Provides superior mobile performance over default pipeline  
+    * PC: 60+ FPS  
+    * Mobile: 45+ FPS  
+* New 18.3 Terrain System  
+    * In-house terrain design using fresh tools  
+* Post-Processing V2  
+    * Combines complete set of rendered effects into a single pipeline  
+* Gorgeous UI  
+    * Responsive elements that handle all landscape resolutions  
+* Cross-Platform Capability:  
+    * Runs on PC, macOS, iOS and Android  
+* Low Poly Design 
+    * Bike/Character models contain a reduced poly count 
+    * Environment models contain a very low poly count  
 
 ## Design
 * ### Assets:  
@@ -65,13 +84,10 @@ This is a msg about my plans.
 
 ## License
 
-Feel free to use ES2015 and ES2017 features.
-Be sure to correctly transpile the source code to ES5.
-
-`ArrayMixer` has its own [ESLint specifications](.eslint.yml) and they need to be followed. 
+This is license info.
 
 
-
+***
 Thanks for reading.  
 If you learned somthing give this repo a
 star and/or share it with your friends  
