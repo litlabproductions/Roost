@@ -1,5 +1,5 @@
 # **Roost**  
-### 3D mototcross game based on replicating 250/450cc class dirt bikes.  
+### 3D mototcross game based on replicating 250/450cc class dirt bikes  
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
@@ -61,56 +61,79 @@
 #### Find constant updates here:
 https://www.instagram.com/litlabproductions/
 
-# Start of Template --> To be removed
 
-## Instructions:  -->(Header 2)
 
-1. *Italic Instruction 1*
 
-2. *Italic Instruction 2*
+<h1 align="center">
+  <br>
+   <img src="https://openclipart.org/image/480px/svg_to_png/287053/1505709521.png&disposition=attachment" alt="Logo ArrayMixer" title="Logo ArrayMixer by  cliparteles ( https://openclipart.org/user-detail/cliparteles )" />
+  <br>
+</h1>
 
-3. *Italic Instruction 3*
-***
-### Requirements  -->(Header 3)
-Req 1 .  
-Req 2:
-- Req 2, Sub Req 1
-- Req 2, Sub Req 2
-- Req 2, Sub Req 3
-- Req 2, Sub Req 4
-***
- 
-1. Note 1.
+# Contributing to ArrayMixer
 
-2. Note 2.
+So nice you wanna contribute to this repository. Thank you.
+You may contribute in several ways like:
 
-3. Note 3.  
+* Creating new features
+* Fixing bugs
+* Improving documentation and examples
+* Translating any document here to your language
 
-***
-#### First Code Block.  -->(Header 4)
+## Table of contents
+
+* [Contributing to ArrayMixer](#contributing-to-arraymixer)
+  * [Developing ArrayMixer](#developing-arraymixer)
+  * [Running tests](#running-tests)
+  * [Reporting a bug](#reporting-a-bug)
+  * [Request a feature](#request-a-feature)
+  * [Commit message](#commit-message)
+  * [Code style](#code-style)
+
+## Developing ArrayMixer
+
+There is only one main source file in the project. It is the [/src/array-mixer.js](/src/array-mixer.js).
+The [/src/spec.js](/src/spec.js) is for now the only unit test file in the project.
+
+The `release folder` includes the transpiled ES5 version of the source code, this folder is only avaliable in the []npm package](https://www.npmjs.com/package/array-mixer). 
+
+## Running tests
+
+Run unit tests using this command:
+
+```bash
+npm test
 ```
-DummyFunction()
-{
-  int gotEm = 0; 
-  string s = "This is the code";
 
-  return gotEm; 
-```   
-***  
-***  
-### Second Code Block:  -->(Header 3)
-```
-DummyFunction2()
-{
-  int gotEm2 = 0; 
-  string s2 = "This is the code";
+## Reporting a bug
 
-  return gotEm2; 
+Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to report any bug you find.
+Bugs description should include:
 
-```
-***
- 
-## Conclusion:  -->(Header 2)
+* How to reproduce the bug;
+* Easy to understand title;
+
+Would be nice to have some code showing how to reproduce the code, you may use [gist](https://gist.github.com) or [Codepen](https://codepen.io) for uploading your example code.
+
+## Request a feature
+
+Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to request a new feature.
+Keep in mind `ArrayMixer` intends to be a pure javascript library
+Feel free to port it to your favorite framework, such as Angular or VueJs in a new repository.
 
 
+## Commit message
 
+Commit messages should includes GitHub number reference and a imperative easy to understand sentence.
+
+## Code style
+
+Feel free to use ES2015 and ES2017 features.
+Be sure to correctly transpile the source code to ES5.
+
+`ArrayMixer` has its own [ESLint specifications](.eslint.yml) and they need to be followed. 
+
+Thank you for reading this.
+
+
+Give this repo a star and/or share it with your friends.
