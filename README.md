@@ -1,6 +1,6 @@
 # Roost
-
-#### 3D Mototcross Game Based on Replicating 250/450cc Dirt Bikes  
+  
+#### 3D Motocross Game Based on Replicating 250/450cc Dirt Bikes  
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
@@ -26,7 +26,7 @@ It's located in the `builds` folder.
 * Physics-Based Movement  
     * Fully responsive suspension simulation defined by 20+ parameters  
     * Rigged bike model with lightning fast animation updates  
-    * Variable System of balance  
+    * Variable system of balance  
         * Auto/manual roll over at speed = x.yz  
     * Automatic/Manual Transmission  
     * Wheel colliders  
@@ -41,20 +41,32 @@ It's located in the `builds` folder.
     * Combines complete set of rendered effects into a single pipeline  
 * Gorgeous UI  
     * Responsive elements that handle all landscape resolutions  
-* Cross-Platform Capability:  
-    * Runs on PC, macOS, iOS and Android  
 * Low Poly Design 
     * Bike/Character models contain a reduced poly count 
     * Environment models contain a very low poly count  
+* Cross-Platform Capability:  
+    * Runs on PC, macOS, iOS and Android  
+
 
 ## Design
 * ### Assets:  
-    * Bike: [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)
+    * Bike:  
+      1. [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
+      2. [Mobile Dirtbike](https://assetstore.unity.com/packages/3d/vehicles/land/mobile-dirtbike-56185)  
+    
+    * UI:  
+      1. 
+      [Field - Complete Main Menu UI (Lite)](https://assetstore.unity.com/packages/tools/gui/field-complete-main-menu-ui-lite-129668)  
+      2. 
+      [Looader - Loading Screen System](https://assetstore.unity.com/packages/tools/gui/looader-loading-screen-system-118194)  
+      3. 
+      [Rain Maker](https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938)  
+      4. 
+      [Dissolving Shader](https://assetstore.unity.com/packages/vfx/shaders/dissolving-shader-121005)  
+
     * Enviornment: [POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)
-     
 
-This is a design explanation 
-
+This is a design explanation.  
 
 
 ## Development
@@ -70,17 +82,13 @@ This is a design explanation
                 &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
 
-
 This is a development expl.
-
-[gist](https://gist.github.com) or [Codepen](https://codepen.io) for uploading your example code.
-Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to request a new feature.
-Keep in mind `ArrayMixer` intends to be a pure javascript library
 
 
 ## Looking Forward
 
 This is a msg about my plans.
+
 
 ## License
 
