@@ -28,7 +28,7 @@ It's located in the `builds` folder.
     * Rigged bike model with lightning fast animation updates  
     * Variable system of balance  
         * Auto/manual roll over at speed = x.yz  
-    * Automatic/Manual Transmission  
+    * Automatic/manual transmission  
     * Wheel colliders  
         * Realistic rotation speed/traction  
 * New 18.3 Lightweight Render Pipeline  
@@ -40,9 +40,9 @@ It's located in the `builds` folder.
 * Post-Processing V2  
     * Combines complete set of rendered effects into a single pipeline  
 * Gorgeous UI  
-    * Responsive elements that handle all landscape resolutions  
+    * Responsive elements fit for any landscape resolution  
 * Low Poly Design 
-    * Bike/Character models contain a reduced poly count 
+    * Bike/Character models contain a reduced poly count  
     * Environment models contain a very low poly count  
 * Cross-Platform Capability:  
     * Runs on PC, macOS, iOS and Android  
