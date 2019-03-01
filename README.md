@@ -73,8 +73,8 @@ This is a design explanation.
 ## Development
 * ### Assets:  
     * [**Randomation Vehicle Physics**](https://github.com/JustInvoke/Randomation-Vehicle-Physics)  
-      &nbsp;&nbsp;&nbsp;My rate of progress up to this point is heavily  
-      &nbsp;&nbsp;&nbsp;reliant on the implmentation of this asset.  
+      &nbsp;&nbsp;&nbsp;My unstoppable rate of progress has been heavily reliant  
+      &nbsp;&nbsp;&nbsp;on the implmentation of this asset  
            <br/>
         * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
         * These kind words changed the course of my project:<br/><br/>
@@ -98,13 +98,13 @@ This is license info.
 
 ***
 Thanks for reading.  
-If you learned somthing give this repo a
-star and/or share it with your friends  
+If you like what you see give this repo a  
+star and/or share it with your friends 😄  
   
   
 Thank you for your support,  
 
-:fire::rocket:  
+:rocket:  
 David Guido  
 Lit Lab Productions
 
