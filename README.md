@@ -5,7 +5,18 @@
 ***
 
 ## Description:
-* 3D Motocross Game 
+* 3D Motocross Game  
+* Low Poly Design  
+* Physics-Based using an old Unity Asset Store Pack  
+
+
+***
+
+## Design:
+* ### Assets:  
+    * Bike: [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)
+    * Enviornment: [POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)
+* *(Short description of design)
 * Physics-Based using an old Unity Asset Store Pack  
     * Asset:     [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
     * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
@@ -16,6 +27,34 @@
      &nbsp;&nbsp;&nbsp;&nbsp;I ***decided to include it anyways in case some people want to experiment with it."***  
 
 ***
+
+## Development:
+* ### Assets:  
+    * [**Randomation Vehicle Physics**](https://github.com/JustInvoke/Randomation-Vehicle-Physics)  
+      &nbsp;&nbsp;&nbsp;My rate of progress up to this point is heavily  
+      &nbsp;&nbsp;&nbsp;reliant on the implmentation of this asset.  
+           <br/>
+        * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
+        * These kind words changed the course of my project:<br/><br/>
+         > "***VehicleBalance:***  
+                &nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
+                &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
+                &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
+
+* *(Short description of design)
+* *(Short description of development)
+* Physics-Based using an old Unity Asset Store Pack  
+    * Asset:     [Randomation Vehicle Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics)
+    * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
+    * My rate of progress is mainly due to these kind words:<br/><br/>
+     > "VehicleBalance:  
+     &nbsp;&nbsp;&nbsp;&nbsp;This script is meant for ***balancing vehicles such as motorcycles***.  
+     &nbsp;&nbsp;&nbsp;&nbsp;This script is not completely stable, but  
+     &nbsp;&nbsp;&nbsp;&nbsp;I ***decided to include it anyways in case some people want to experiment with it."***  
+
+***
+
+
 ![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
 
 #### Find constant updates here:
