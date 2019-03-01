@@ -70,7 +70,7 @@ https://www.instagram.com/litlabproductions/
   <br>
 </h1>
 
-# Contributing to ArrayMixer
+# Roost
 
 So nice you wanna contribute to this repository. Thank you.
 You may contribute in several ways like:
@@ -82,22 +82,22 @@ You may contribute in several ways like:
 
 ## Table of contents
 
-* [Contributing to ArrayMixer](#contributing-to-arraymixer)
-  * [Developing ArrayMixer](#developing-arraymixer)
-  * [Running tests](#running-tests)
-  * [Reporting a bug](#reporting-a-bug)
-  * [Request a feature](#request-a-feature)
-  * [Commit message](#commit-message)
-  * [Code style](#code-style)
+* [Roost](#roost)
+  * [Installation](#installation)
+  * [Features](#features)
+  * [Design](#design)
+  * [Development](#development)
+  * [Looking Forward](#looking-forward)
+  * [License](#license)
 
-## Developing ArrayMixer
+## Installation
 
 There is only one main source file in the project. It is the [/src/array-mixer.js](/src/array-mixer.js).
 The [/src/spec.js](/src/spec.js) is for now the only unit test file in the project.
 
 The `release folder` includes the transpiled ES5 version of the source code, this folder is only avaliable in the []npm package](https://www.npmjs.com/package/array-mixer). 
 
-## Running tests
+## Features
 
 Run unit tests using this command:
 
@@ -105,7 +105,7 @@ Run unit tests using this command:
 npm test
 ```
 
-## Reporting a bug
+## Design
 
 Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to report any bug you find.
 Bugs description should include:
@@ -115,18 +115,18 @@ Bugs description should include:
 
 Would be nice to have some code showing how to reproduce the code, you may use [gist](https://gist.github.com) or [Codepen](https://codepen.io) for uploading your example code.
 
-## Request a feature
+## Development
 
 Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to request a new feature.
 Keep in mind `ArrayMixer` intends to be a pure javascript library
 Feel free to port it to your favorite framework, such as Angular or VueJs in a new repository.
 
 
-## Commit message
+## Looking Forward
 
 Commit messages should includes GitHub number reference and a imperative easy to understand sentence.
 
-## Code style
+## License
 
 Feel free to use ES2015 and ES2017 features.
 Be sure to correctly transpile the source code to ES5.
