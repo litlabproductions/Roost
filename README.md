@@ -1,12 +1,6 @@
-
-
-![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
-#### Find constant updates here:
-https://www.instagram.com/litlabproductions/
-
 # Roost
 
-3D mototcross game based on replicating 250/450cc class dirt bikes  
+#### 3D mototcross game based on replicating 250/450cc dirt bikes  
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
@@ -23,20 +17,16 @@ https://www.instagram.com/litlabproductions/
 
 ## Installation
 
-There is only one main source file in the project. It is the [/src/array-mixer.js](/src/array-mixer.js).
-The [/src/spec.js](/src/spec.js) is for now the only unit test file in the project.
+There is only one build in this project.  
+It's located in the `builds` folder.  
+Specifically, [/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
 
-The `release folder` includes the transpiled ES5 version of the source code, this folder is only avaliable in the []npm package](https://www.npmjs.com/package/array-mixer). 
 
 ## Features
 * 3D Motocross Game  
 * 100% Physics-Based  
 * Low Poly Design  
-Run unit tests using this command:
 
-```bash
-npm test
-```
 
 ## Design
 * ### Assets:  
@@ -44,7 +34,9 @@ npm test
     * Enviornment: [POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)
      
 
-Would be nice to have some code showing how to reproduce the code, you may use [gist](https://gist.github.com) or [Codepen](https://codepen.io) for uploading your example code.
+This is a design explanation 
+
+
 
 ## Development
 * ### Assets:  
@@ -59,14 +51,17 @@ Would be nice to have some code showing how to reproduce the code, you may use [
                 &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
 
+
+This is a development expl.
+
+[gist](https://gist.github.com) or [Codepen](https://codepen.io) for uploading your example code.
 Use the [GitHub issue tracker](https://github.com/teles/array-mixer/issues) to request a new feature.
 Keep in mind `ArrayMixer` intends to be a pure javascript library
-Feel free to port it to your favorite framework, such as Angular or VueJs in a new repository.
 
 
 ## Looking Forward
 
-Commit messages should includes GitHub number reference and a imperative easy to understand sentence.
+This is a msg about my plans.
 
 ## License
 
@@ -75,10 +70,24 @@ Be sure to correctly transpile the source code to ES5.
 
 `ArrayMixer` has its own [ESLint specifications](.eslint.yml) and they need to be followed. 
 
-Thank you for reading this.
 
 
-Give this repo a star and/or share it with your friends.
+Thanks for reading.  
+If you learned somthing give this repo a
+star and/or share it with your friends  
+  
+  
+Thank you for your support,  
+
+:fire::rocket:  
+David Guido  
+Lit Lab Productions
+
+***
+
+
+
+
 
 
 
@@ -87,3 +96,12 @@ Give this repo a star and/or share it with your friends.
    <img src="https://openclipart.org/image/480px/svg_to_png/287053/1505709521.png&disposition=attachment" alt="Logo ArrayMixer" title="Logo ArrayMixer by  cliparteles ( https://openclipart.org/user-detail/cliparteles )" />
   <br>
 </h1>
+
+
+
+
+
+
+![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
+#### Find constant updates here:
+https://www.instagram.com/litlabproductions/
