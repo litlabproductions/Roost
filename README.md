@@ -1,13 +1,15 @@
 # **Roost**
 &nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)  
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
+&nbsp;&nbsp;&nbsp;&nbsp;3D mototcross game based on the replication of the 250/450cc class dirt bikes.
+
+Built with [Unity3D](https://github.com/Unity-Technologies) and the [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
 ***
 
 ## Description:
 * 3D Motocross Game  
+* 100% Physics-Based  
 * Low Poly Design  
-* Physics-Based using an old Unity Asset Store Pack  
 
 
 ***
