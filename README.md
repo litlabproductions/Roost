@@ -1,6 +1,7 @@
 # Roost
   
-#### 3D Motocross Game Based on Replicating 250/450cc Dirt Bikes  
+### 3D Motocross Game  
+#### Based on replication of 250/450cc dirt bike physics  
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
@@ -48,7 +49,9 @@ It's located in the `builds` folder.
     * Runs on PC, macOS, iOS and Android  
 
 
-## Design
+## Design]
+This is a design explanation.
+
 * ### Assets:  
     * Bike:  
       [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
@@ -64,10 +67,8 @@ It's located in the `builds` folder.
     * Enviornment:  
       [POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)  
       [Low Poly Styled Rocks](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
-      [Low Poly Flowers](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
-      [Low poly styled rocks](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
+      [Low Poly Flowers](https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083)  
 
-This is a design explanation.  
 
 
 ## Development
