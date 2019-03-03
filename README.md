@@ -32,19 +32,24 @@ It's located in the `builds` folder.
     * Automatic/manual transmission  
     * Wheel colliders  
         * Realistic rotation speed/traction  
+
 * New 18.3 Lightweight Render Pipeline  
     * Provides superior mobile performance over default pipeline  
     * PC: 60+ FPS  
     * Mobile: 45+ FPS  
 * New 18.3 Terrain System  
     * In-house terrain design using fresh tools  
+
 * Post-Processing V2  
     * Combines complete set of rendered effects into a single pipeline  
+
 * Gorgeous UI  
     * Responsive elements fit for any landscape resolution  
+
 * Low Poly Design 
     * Bike/Character models contain a reduced poly count  
     * Environment models contain a very low poly count  
+
 * Cross-Platform Capability:  
     * Runs on PC, macOS, iOS and Android  
 
@@ -85,11 +90,36 @@ This is a design explanation.
                 &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
 
 This is a development expl.
-
-
+sfx*(**
+    Lean Foward,
+    Lean Side, Whip
+    , Lap System with Time,
+    A.I. Opponent,
+    I.A.P. as Upgrades (Bikes, Parts & Graphics),
+    Graphics Settings (Potato - > Flag Ship)
+    , Much More 
 ## Looking Forward
+* ### To do:
+    * Rider model  
+        * Animation & texure design  
+    * Lean forward, back & side  
 
-This is a msg about my plans.
+    * Graphics settings  
+        * Potato to flagship device support  
+
+    * Whip (lean while airborne)  
+
+    * Lap system with time  
+
+    * A.I. opponent  
+
+    * I.A.P. as upgrades  
+        * Bikes, parts and graphics  
+
+    * SFX rework  
+    
+    * Much more  
+***
 
 
 ## License
