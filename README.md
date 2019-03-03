@@ -56,7 +56,7 @@
 
 
 ## Design
-> &nbsp;&nbsp;&nbsp;When I was first desining this game I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
+> nbsp;&nbsp;&nbsp;When I was first designing this game, I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
   
 * ### Assets:  
     * Bike:  
