@@ -94,20 +94,19 @@ This is a msg about my plans.
 
 ## License
 
-This is license info.
+2019 Lit Lab Productions&copy;  
+All Rights Reserved.  
 
 
 ***
-Thanks for reading 😄  
-Your support is appreciated.  
+ 
 <br/>
-If you like what you see give this repo a  
-star and/or share it with your friends.  
+If you like what you see give this repo  
+a star and share it with your friends  
   
-  
-Thank you for your support,  
-
-
+Thanks for reading 😄  
+Your support is appreciated  
+<br/>
 David Guido :rocket:  
 Lit Lab Productions
 
