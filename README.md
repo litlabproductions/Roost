@@ -60,9 +60,9 @@
   
 * ### Assets:  
     * Bike:  
-      [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
-      [Mobile Dirtbike](https://assetstore.unity.com/packages/3d/vehicles/land/mobile-dirtbike-56185)  
-      [Dirt Bike 125cc - Engine Sound Pack](https://assetstore.unity.com/packages/audio/sound-fx/transportation/dirt-bike-125cc-engine-sound-pack-113360)  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Mobile Dirtbike](https://assetstore.unity.com/packages/3d/vehicles/land/mobile-dirtbike-56185)  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Dirt Bike 125cc - Engine Sound Pack](https://assetstore.unity.com/packages/audio/sound-fx/transportation/dirt-bike-125cc-engine-sound-pack-113360)  
   
     * UI:  
       &nbsp;&nbsp;&nbsp;&nbsp;[Field - Complete Main Menu UI (Lite)](https://assetstore.unity.com/packages/tools/gui/field-complete-main-menu-ui-lite-129668)  
@@ -110,13 +110,13 @@
 
 ## License
 
-&nbsp;&nbsp;&nbsp;&nbsp;2019 Lit Lab Productions&copy;  
-&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved.  
+&nbsp;&nbsp;&nbsp;2019 Lit Lab Productions&copy;  
+&nbsp;&nbsp;&nbsp;All Rights Reserved.  
 
 
 ***
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what you see give this repo  
-&nbsp;&nbsp;&nbsp;&nbsp;a star and share it with your friends  
+If you like what you see give this repo  
+a star and share it with your friends  
   
 Thanks for reading 😄  
 Your support is appreciated<br/>  
