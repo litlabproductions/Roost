@@ -94,23 +94,16 @@
 ## Looking Forward
 * ### To do:
     * Rider model  
-        * Animation & texure design  
-    * Lean forward, back & side  
-
-    * Graphics settings  
-        * Potato to flagship device support  
-
-    * Whip (lean while airborne)  
-
-    * Lap system with time  
-
-    * A.I. opponent  
-
-    * I.A.P. as upgrades  
-        * Bikes, parts and graphics  
-
-    * SFX rework  
-    
+        * Animation & texure design<br/><br/>
+    * Lean forward, back & side<br/><br/>
+    * Graphics settings
+        * Potato to flagship device support<br/><br/>
+    * Whip (lean while airborne)<br/><br/>
+    * Lap system with time<br/><br/>
+    * A.I. opponent<br/><br/>
+    * I.A.P. as upgrades
+        * Bikes, parts and graphics<br/><br/>
+    * SFX rework<br/><br/>
     * Much more  
 ***
 
