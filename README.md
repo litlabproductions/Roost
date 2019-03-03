@@ -24,39 +24,40 @@ It's located in the `builds` folder.
 
 
 ## Features
-* Physics-Based Movement  
-    * Fully responsive suspension simulation defined by 20+ parameters  
-    * Rigged bike model with lightning fast animation updates  
-    * Variable system of balance  
-        * Auto/manual roll over at speed = x.yz  
-    * Automatic/manual transmission  
-    * Wheel colliders  
-        * Realistic rotation speed/traction  
+* Physics-Based Movement
+    * Fully responsive suspension simulation defined by 20+ parameters
+    * Rigged bike model with lightning fast animation updates
+    * Variable system of balance
+        * Auto/manual roll over at speed = x.yz
+    * Wheel colliders
+        * Realistic rotation speed / traction
+    * Automatic / manual transmission<br/><br/>
 
-* New 18.3 Lightweight Render Pipeline  
-    * Provides superior mobile performance over default pipeline  
-    * PC: 60+ FPS  
-    * Mobile: 45+ FPS  
+* New 18.3 Lightweight Render Pipeline
+    * Provides superior mobile performance over default pipeline
+    * PC: 60+ FPS
+    * Mobile: 45+ FPS<br/><br/>
+
 * New 18.3 Terrain System  
-    * In-house terrain design using fresh tools  
+    * In-house terrain design using fresh tools<br/><br/>
 
 * Post-Processing V2  
-    * Combines complete set of rendered effects into a single pipeline  
+    * Combines complete set of rendered effects into a single pipeline<br/><br/>
 
 * Gorgeous UI  
-    * Responsive elements fit for any landscape resolution  
+    * Responsive elements fit for any landscape resolution<br/><br/>
 
 * Low Poly Design 
-    * Bike/Character models contain a reduced poly count  
-    * Environment models contain a very low poly count  
+    * Bike/Character models contain a reduced poly count
+    * Environment models contain a very low poly count<br/><br/>
 
 * Cross-Platform Capability:  
-    * Runs on PC, macOS, iOS and Android  
+    * Runs on PC, macOS, iOS and Android<br/><br/>
 
 
-## Design]
-This is a design explanation.
-
+## Design
+When I was first desining this game I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
+  
 * ### Assets:  
     * Bike:  
       [Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
@@ -89,15 +90,7 @@ This is a design explanation.
                 &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
 
-This is a development expl.
-sfx*(**
-    Lean Foward,
-    Lean Side, Whip
-    , Lap System with Time,
-    A.I. Opponent,
-    I.A.P. as Upgrades (Bikes, Parts & Graphics),
-    Graphics Settings (Potato - > Flag Ship)
-    , Much More 
+
 ## Looking Forward
 * ### To do:
     * Rider model  
