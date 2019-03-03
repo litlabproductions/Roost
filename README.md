@@ -87,9 +87,9 @@
         * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
         * These kind words changed the course of my project:<br/><br/>
          > &nbsp;&nbsp;&nbsp;"***VehicleBalance:***  
-                &nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
-                &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
-                &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
 
 
 ## Looking Forward
