@@ -88,10 +88,9 @@
          > &nbsp;&nbsp;&nbsp;"***VehicleBalance:***  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with  
-                it."***
-<br/><br/><br/>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with  it."***  
 
+<br/><br/>
 ## Looking Forward
 * ### To do:
     * Rider model  
