@@ -5,9 +5,9 @@
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
-<br/>
-## Table of contents
 <br/><br/><br/>
+
+## Table of contents
 * [Roost](#roost)
   * [Installation](#installation)
   * [Features](#features)
@@ -15,6 +15,7 @@
   * [Development](#development)
   * [Looking Forward](#looking-forward)
   * [License](#license)
+<br/><br/><br/>
 
 ## Installation
 
@@ -52,7 +53,7 @@
     * Environment models contain a very low poly count<br/><br/>
 
 * Cross-Platform Capability:  
-    * Runs on PC, macOS, iOS and Android<br/><br/>
+    * Runs on PC, macOS, iOS and Android
 <br/><br/><br/>
 
 ## Design
@@ -103,8 +104,7 @@
     * I.A.P. as upgrades
         * Bikes, parts and graphics<br/><br/>
     * SFX rework<br/><br/>
-    * Much more  
-***
+    * Much more
 <br/><br/><br/>
 
 ## License
@@ -121,8 +121,8 @@ Thanks for reading 😄
 Your support is appreciated<br/>  
 David Guido :rocket:  
 Lit Lab Productions  
-<br/><br/><br/>
 ***
+<br/><br/><br/>
 
 
 
