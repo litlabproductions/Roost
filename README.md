@@ -81,12 +81,12 @@
 * ### Assets:  
     * [**Randomation Vehicle Physics**](https://github.com/JustInvoke/Randomation-Vehicle-Physics)  
 
-         > My unstoppable rate of progress has been heavily reliant
+         > &nbsp;&nbsp;&nbsp;My unstoppable rate of progress has been heavily reliant
            on the implmentation of this asset
            <br/>
         * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
         * These kind words changed the course of my project:<br/><br/>
-         > "***VehicleBalance:***  
+         > &nbsp;&nbsp;&nbsp;"***VehicleBalance:***  
                 &nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
                 &nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
