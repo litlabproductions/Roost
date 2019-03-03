@@ -98,9 +98,11 @@ This is license info.
 
 
 ***
-Thanks for reading.  
+Thanks for reading 😄  
+Your support is appreciated.  
+<br/>
 If you like what you see give this repo a  
-star and/or share it with your friends 😄  
+star and/or share it with your friends.  
   
   
 Thank you for your support,  
