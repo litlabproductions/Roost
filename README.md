@@ -81,8 +81,7 @@
 * ### Assets:  
     * [**Randomation Vehicle Physics**](https://github.com/JustInvoke/Randomation-Vehicle-Physics)  
 
-         > &nbsp;&nbsp;&nbsp;My unstoppable rate of progress has been heavily reliant
-           on the implmentation of this asset
+         > &nbsp;&nbsp;&nbsp;My unstoppable rate of progress has been largly due to the use of this asset  
            <br/>
         * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
         * These kind words changed the course of my project:<br/><br/>
