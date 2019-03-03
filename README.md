@@ -6,7 +6,7 @@
 <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
 ***
-<br/><br/><br/>
+<br/><br/>
 
 ## Table of contents
 * [Roost](#roost)
@@ -16,6 +16,7 @@
   * [Development](#development)
   * [Looking Forward](#looking-forward)
   * [License](#license)
+***
 <br/><br/><br/>
 
 ## Installation
@@ -23,6 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
 &nbsp;&nbsp;&nbsp;&nbsp;It's located in the `builds` folder.  
 &nbsp;&nbsp;&nbsp;&nbsp;[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
+***
 <br/><br/><br/>
 
 ## Features
@@ -55,6 +57,7 @@
 
 * Cross-Platform Capability:  
     * Runs on PC, macOS, iOS and Android
+***
 <br/><br/><br/>
 
 ## Design
@@ -76,6 +79,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;[POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)  
       &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Styled Rocks](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
       &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Flowers](https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083)
+***
 <br/><br/><br/>
 
 ## Development
@@ -91,6 +95,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with  it."***  
 
+***
 <br/><br/>
 ## Looking Forward
 * ### To do:
@@ -106,6 +111,7 @@
         * Bikes, parts and graphics<br/><br/>
     * SFX rework<br/><br/>
     * Much more
+***
 <br/><br/><br/>
 
 ## License
