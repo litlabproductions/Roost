@@ -105,8 +105,8 @@ star and/or share it with your friends 😄
   
 Thank you for your support,  
 
-:rocket:  
-David Guido  
+
+David Guido :rocket:  
 Lit Lab Productions
 
 ***
