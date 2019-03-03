@@ -7,7 +7,7 @@
 [Lightweight Render Pipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Lightweight-Render-Pipeline)
 <br/>
 ## Table of contents
-
+<br/><br/><br/>
 * [Roost](#roost)
   * [Installation](#installation)
   * [Features](#features)
@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
 &nbsp;&nbsp;&nbsp;&nbsp;It's located in the `builds` folder.  
 &nbsp;&nbsp;&nbsp;&nbsp;[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
-
+<br/><br/><br/>
 
 ## Features
 * Physics-Based Movement
@@ -53,7 +53,7 @@
 
 * Cross-Platform Capability:  
     * Runs on PC, macOS, iOS and Android<br/><br/>
-
+<br/><br/><br/>
 
 ## Design
 > nbsp;&nbsp;&nbsp;When I was first designing this game, I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
@@ -73,9 +73,8 @@
     * Enviornment:  
       &nbsp;&nbsp;&nbsp;&nbsp;[POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)  
       &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Styled Rocks](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Flowers](https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083)  
-
-
+      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Flowers](https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083)
+<br/><br/><br/>
 
 ## Development
 * ### Assets:  
@@ -89,7 +88,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with it."***  
-
+<br/><br/><br/>
 
 ## Looking Forward
 * ### To do:
@@ -106,13 +105,13 @@
     * SFX rework<br/><br/>
     * Much more  
 ***
-
+<br/><br/><br/>
 
 ## License
 
 &nbsp;&nbsp;&nbsp;2019 Lit Lab Productions&copy;  
 &nbsp;&nbsp;&nbsp;All Rights Reserved.  
-
+<br/><br/><br/>
 
 ***
 If you like what you see give this repo  
@@ -122,7 +121,7 @@ Thanks for reading 😄
 Your support is appreciated<br/>  
 David Guido :rocket:  
 Lit Lab Productions  
-
+<br/><br/><br/>
 ***
 
 
