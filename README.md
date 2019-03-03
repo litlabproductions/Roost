@@ -18,9 +18,9 @@
 
 ## Installation
 
-There is only one build in this project.  
-It's located in the `builds` folder.  
-[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
+&nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
+&nbsp;&nbsp;&nbsp;&nbsp;It's located in the `builds` folder.  
+&nbsp;&nbsp;&nbsp;&nbsp;[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
 
 
 ## Features
@@ -56,7 +56,7 @@ It's located in the `builds` folder.
 
 
 ## Design
-When I was first desining this game I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
+> When I was first desining this game I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
   
 * ### Assets:  
     * Bike:  
@@ -117,13 +117,13 @@ When I was first desining this game I began loading a chrome bookmark folder wit
 
 ## License
 
-2019 Lit Lab Productions&copy;  
-All Rights Reserved.  
+&nbsp;&nbsp;&nbsp;&nbsp;2019 Lit Lab Productions&copy;  
+&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved.  
 
 
 ***
-If you like what you see give this repo  
-a star and share it with your friends  
+&nbsp;&nbsp;&nbsp;&nbsp;If you like what you see give this repo  
+&nbsp;&nbsp;&nbsp;&nbsp;a star and share it with your friends  
   
 Thanks for reading 😄  
 Your support is appreciated<br/>  
