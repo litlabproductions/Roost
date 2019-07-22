@@ -8,6 +8,7 @@
 ***
 <br/><br/>
 
+![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
 ## Table of contents
 * [Roost](#roost)
   * [Installation](#installation)
@@ -114,11 +115,6 @@
 ***
 <br/><br/><br/>
 
-## License
-
-&nbsp;&nbsp;&nbsp;2019 Lit Lab Productions&copy;  
-&nbsp;&nbsp;&nbsp;All Rights Reserved.  
-<br/><br/><br/>
 
 ***
 If you like what you see give this repo  
@@ -136,18 +132,5 @@ Lit Lab Productions
 
 
 
-
-<h1 align="center">
-  <br>
-   <img src="https://openclipart.org/image/480px/svg_to_png/287053/1505709521.png&disposition=attachment" alt="Logo ArrayMixer" title="Logo ArrayMixer by  cliparteles ( https://openclipart.org/user-detail/cliparteles )" />
-  <br>
-</h1>
-
-
-
-
-
-
-![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
 #### Find constant updates here:
 https://www.instagram.com/litlabproductions/
