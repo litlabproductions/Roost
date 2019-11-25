@@ -1,0 +1,16 @@
+{
+"companyName": "LitLabProductions",
+"productName": "Roost",
+"productVersion": "WebSlice_v01",
+"dataUrl": "Roost.data.unityweb",
+"wasmCodeUrl": "Roost.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roost.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
