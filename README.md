@@ -8,10 +8,6 @@
 ***
 <br/><br/>
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)
-![ezgif com-optimize (1)](https://user-images.githubusercontent.com/34845402/71435589-7baf5d80-269e-11ea-9432-80d7f4a6e810.gif)
-![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)
-
 ## Table of contents
 * [Roost](#roost)
   * [Installation](#installation)
@@ -29,6 +25,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;It's live at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
 ***
 <br/><br/><br/>
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)
+![ezgif com-optimize (1)](https://user-images.githubusercontent.com/34845402/71435589-7baf5d80-269e-11ea-9432-80d7f4a6e810.gif)
+![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)
+
 
 ## Features
 * Physics-Based Movement
