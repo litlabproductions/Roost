@@ -8,7 +8,10 @@
 ***
 <br/><br/>
 
-![roost_gif](https://user-images.githubusercontent.com/34845402/51783304-e5209800-20ec-11e9-869a-7039853b7ca6.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)
+![ezgif com-optimize (1)](https://user-images.githubusercontent.com/34845402/71435589-7baf5d80-269e-11ea-9432-80d7f4a6e810.gif)
+![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)
+
 ## Table of contents
 * [Roost](#roost)
   * [Installation](#installation)
@@ -20,10 +23,10 @@
 ***
 <br/><br/><br/>
 
-## Installation
+## Play
 
 &nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
-&nbsp;&nbsp;&nbsp;&nbsp;It's located at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
+&nbsp;&nbsp;&nbsp;&nbsp;It's live at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
 ***
 <br/><br/><br/>
 
@@ -37,7 +40,7 @@
         * Realistic rotation speed / traction
     * Automatic / manual transmission<br/><br/>
 
-* New 18.3 Lightweight Render Pipeline
+* 18.3 Lightweight Render Pipeline
     * Provides superior mobile performance over default pipeline
     * PC: 60+ FPS
     * Mobile: 45+ FPS<br/><br/>
@@ -60,27 +63,6 @@
 ***
 <br/><br/><br/>
 
-## Design
-> &nbsp;&nbsp;&nbsp;When I was first designing this game, I began loading a chrome bookmark folder with a outragious number of considerable assets over the course of a couple weeks. Little did I know every assets materials would need to be redesigned from the ground up after purchase from the assets store. This was due to my later implementation of the lightweight render pipeline which demanded all materials fit into its strict mobile guidlines. On the bright side, this increased performance in numerous ways.  
-  
-* ### Assets:  
-    * Bike:  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Bikes with Rider](https://assetstore.unity.com/packages/3d/vehicles/land/5-low-poly-dirt-bike-with-rider-108067)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Mobile Dirtbike](https://assetstore.unity.com/packages/3d/vehicles/land/mobile-dirtbike-56185)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Dirt Bike 125cc - Engine Sound Pack](https://assetstore.unity.com/packages/audio/sound-fx/transportation/dirt-bike-125cc-engine-sound-pack-113360)  
-  
-    * UI:  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Field - Complete Main Menu UI (Lite)](https://assetstore.unity.com/packages/tools/gui/field-complete-main-menu-ui-lite-129668)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Looader - Loading Screen System](https://assetstore.unity.com/packages/tools/gui/looader-loading-screen-system-118194)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Rain Maker](https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Dissolving Shader](https://assetstore.unity.com/packages/vfx/shaders/dissolving-shader-121005)  
-  
-    * Enviornment:  
-      &nbsp;&nbsp;&nbsp;&nbsp;[POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Styled Rocks](https://assetstore.unity.com/packages/3d/props/exterior/low-poly-styled-rocks-43486)  
-      &nbsp;&nbsp;&nbsp;&nbsp;[Low Poly Flowers](https://assetstore.unity.com/packages/3d/vegetation/plants/lowpoly-flowers-47083)
-***
-<br/><br/><br/>
 
 ## Development
 * ### Assets:  
