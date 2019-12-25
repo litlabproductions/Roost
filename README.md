@@ -23,8 +23,7 @@
 ## Installation
 
 &nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
-&nbsp;&nbsp;&nbsp;&nbsp;It's located in the `builds` folder.  
-&nbsp;&nbsp;&nbsp;&nbsp;[/Roost/Builds/Roost.exe](/Roost/Builds/Roost.exe)
+&nbsp;&nbsp;&nbsp;&nbsp;It's located at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
 ***
 <br/><br/><br/>
 
