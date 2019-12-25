@@ -10,9 +10,8 @@
 
 ## Table of contents
 * [Roost](#roost)
-  * [Installation](#installation)
+  * [Play](#play)
   * [Features](#features)
-  * [Design](#design)
   * [Development](#development)
   * [Looking Forward](#looking-forward)
   * [License](#license)
