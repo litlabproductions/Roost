@@ -96,22 +96,16 @@
 ***
 <br/><br/><br/>
 
-
 ***
+<br/>
+
 If you like what you see give this repo  
-a star and share it with your friends  
+a star and share it with your friends!
   
 Thanks for reading 😄  
 Your support is appreciated<br/>  
-David Guido :rocket:  
-Lit Lab Productions  
-***
-<br/><br/><br/>
-
-
-
-
-
-
+[***David Guido***](https://www.litlabproductions.com) :rocket:  
+[***Lit Lab Production***](https://www.litlabproductions.com/resume-view)
+<br/>
 #### Find constant updates here:
 https://www.instagram.com/litlabproductions/
