@@ -54,17 +54,25 @@
 ***
 
 ## Development
-* ### Assets:  
-    * [**Randomation Vehicle Physics**](https://github.com/JustInvoke/Randomation-Vehicle-Physics)  
+* ### **Physics Design**:  
+    * *Bike model split into modular components (Back shock & swing arm)* <br><br>
+![roost-phys-demo01](https://user-images.githubusercontent.com/34845402/131231640-0d91fed4-75d4-4001-8a88-b31c32bfd24b.gif)
+![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)
+<br><br>
+    * *Wheel collider fitted to tire model* <br><br>
+![roost-phys-demo02](https://user-images.githubusercontent.com/34845402/131231633-64165a26-16f7-4efd-85dd-f52200a966e8.gif)
+ <br><br>
+    * *Bike components moving as intended, scaling down & back up again during suspension compression* <br><br>
+![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
+![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)
 
-         > &nbsp;&nbsp;&nbsp;My unstoppable rate of progress has been largly due to the use of this asset
-           <br/>
-        * Developer: Justin Couch, [@JustInvoke](https://github.com/JustInvoke)
-        * These kind words changed the course of my project:<br/><br/>
-         > &nbsp;&nbsp;&nbsp;"***VehicleBalance:***  
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is meant for* ***balancing vehicles such as motorcycles***.  
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This script is not completely stable, but*  
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I* ***decided to include it anyways in case some people want to experiment with  it."***  
+* ### **Terrain Design**:  
+    * *Handcrafted landscape built for riding* <br><br>
+
+* ### **Update v1.0**:  
+![roost-illust-v01](https://user-images.githubusercontent.com/34845402/131232173-f3d94f4f-20f9-4ff2-8612-b72f8a4c38d6.png)
+
+* ### **Credit**:  
 
 ***
 
