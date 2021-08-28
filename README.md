@@ -61,7 +61,7 @@
 <br><br>
     * *Wheel collider fitted to tire model* <br><br>
 ![roost-phys-demo02](https://user-images.githubusercontent.com/34845402/131231633-64165a26-16f7-4efd-85dd-f52200a966e8.gif)
- <br><br><br>
+ <br><br>
     * *Bike components moving as intended, scaling down & back up again during suspension compression* <br><br>
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
