@@ -22,11 +22,11 @@
 ***
 
 ## Features
-* **Physics-Based Movement** <br><br>
-![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)<br>
+* ### **Physics-Based Movement** <br><br>
     * *Fully responsive suspension simulation defined by 20+ parameters* <br><br>
     * **Variable system of balance**
         * *Roll, pitch & yaw move independently to simulate the true feel of a motorcyle* <br><br>
+![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)<br>
 ![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)<br><br>
     * **Wheel colliders**
         * *Semi-realistic torque, compression & traction* <br><br>
@@ -35,21 +35,21 @@
 * **Post-Processing V2**  
     * *Combines complete set of rendered effects into a single pipeline*<br/><br/>
 
-* **Gorgeous UI**  
+* ### **Gorgeous UI**  
     * *Responsive elements fit for any landscape resolution*<br/><br/>
 ![roost-menu-demo00](https://user-images.githubusercontent.com/34845402/131198290-7bc626e1-2459-4208-8642-014e7915e209.gif)<br><br>
 
-* **Color System**
+* ### **Color System**
     * *Eight customizable bike parts using **16,777,216** possible hex colors or **6** premade textures*<br/><br/>
  ![roost-menu-demo02](https://user-images.githubusercontent.com/34845402/131198475-e4dd3f9e-2a88-46c9-b65c-faba4e241489.gif)<br><br>
 
-* **Low Poly Design** 
+* ### **Low Poly Design** 
     * *Bike/Character models contain a ***reduced*** poly count* <br><br>
 ![campsite02](https://user-images.githubusercontent.com/34845402/131205336-930cec8a-b22d-4d61-97dd-32d5c2e781d7.png) <br><br>
     * *Environment models contain a ***very low*** poly count*<br/><br/>
 ![campsite](https://user-images.githubusercontent.com/34845402/131205438-814026ec-0cd2-40c4-be26-f3280486861c.png)<br><br>
 
-* **Cross-Platform Capability**  
+* ### **Cross-Platform Capability**  
     * *Runs on PC, macOS, iOS and Android*
 ***
 
