@@ -19,7 +19,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
 &nbsp;&nbsp;&nbsp;&nbsp;It's live at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
+
 ***
+<br><br>
+![roostlogo-resize03](https://user-images.githubusercontent.com/34845402/131585723-dcd5eed5-0184-48d6-b94e-c469b5ce6758.png)
+<br><br><br>
+***
+<br>
 
 ## Features
 * ### **Physics-Based Movement** <br><br>
