@@ -54,7 +54,7 @@
 ***
 
 ## Development
-* ### **Physics Design**:  
+* ### **Physics**:  
     * *Bike model split into modular components (Back shock & swing arm)* <br><br>
 ![roost-phys-demo01](https://user-images.githubusercontent.com/34845402/131231640-0d91fed4-75d4-4001-8a88-b31c32bfd24b.gif)
 ![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)
@@ -66,7 +66,7 @@
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
 
-* ### **Terrain Design**:  
+* ### **Terrain**:  
     * *Spawn, FX and MX track locations are set*  <br><br>
 ![terriain-desing00](https://user-images.githubusercontent.com/34845402/131232468-8fe6db56-cfd8-467b-9695-48850e68e45c.gif)<br><br>
     * *Jumps, berms and whoops are hand crafted*  <br><br>
@@ -79,7 +79,7 @@
 ![terriain-desing05](https://user-images.githubusercontent.com/34845402/131232517-567c2ef7-660e-4faa-846f-e7f08dac4042.gif) <br><br>
 
 * ### **Update v1.0**:  
-![roost-illust-v01](https://user-images.githubusercontent.com/34845402/131232173-f3d94f4f-20f9-4ff2-8612-b72f8a4c38d6.png)<br><br>
+![roost-illust-v02](https://user-images.githubusercontent.com/34845402/131584617-0c46bd76-2595-4eb4-b7dd-7aa39e7b8cca.png)<br><br>
 
 * ### **Credit**:  
 
