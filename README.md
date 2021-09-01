@@ -32,7 +32,7 @@
 * ### **Physics-Based Movement** <br><br>
     * *Fully responsive suspension simulation defined by 20+ parameters* <br><br>
     * **Variable system of balance**
-        * *Roll, pitch & yaw move independently to simulate the true feel of a motorcyle* <br><br>
+        * *Roll, pitch & yaw move independently to simulate the true feel of a mx bike* <br><br>
 ![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)<br>
 ![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)<br><br>
     * **Wheel colliders**
