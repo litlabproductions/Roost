@@ -144,7 +144,7 @@
 ### Terrain
   * Spawn, FX and MX track locations are set  <br><br>
 ![terriain-desing00](https://user-images.githubusercontent.com/34845402/131232468-8fe6db56-cfd8-467b-9695-48850e68e45c.gif)<br><br><br>
-  * Jumps, berms and whoops are hand crafted  <br><br>
+  * Jumps, berms and whoops are crafted  <br><br>
 ![terriain-desing01 (2)](https://user-images.githubusercontent.com/34845402/131232512-047d70ae-dd57-489e-a151-2c008ad16c9d.gif)<br><br><br>
   * Empty spaces are filled in with grass and props  <br><br>
 ![terriain-desing02](https://user-images.githubusercontent.com/34845402/131232513-2b29d9d4-38e8-48dd-a72b-e4fe7c3e46a6.gif)
