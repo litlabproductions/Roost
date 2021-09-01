@@ -47,9 +47,9 @@
 <br><br>
 
 ## Features
-### Physics Based Movement
 
-  * *Fully responsive suspension simulation defined by 20+ parameters* <br><br><br>
+
+### Physics Based Movement <br><br>
   * **Variable System of Balance**
 <br><br>
 ![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)
