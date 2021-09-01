@@ -110,7 +110,7 @@
       * The **BTire** game objects **Transform** is attached to this **Suspension Part** scripts **Connect Obj** parameter <br><br>
  
 ### Transmission
-   * Number of gears, current gear and start gear as well as each gears ratio, minimum & maximum RPM are set  <br><br>
+   * Number of gears and start gear as well as each gears ratio, minimum & maximum RPM are set  <br><br>
 ![roost-gear01](https://user-images.githubusercontent.com/34845402/131616716-ed811c5a-b499-4132-9493-7a9df75a7b41.png)
 <br><br>
 
