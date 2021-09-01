@@ -80,37 +80,47 @@
 ***
 
 ## Development
-* ### Physics
-    * *Bike model split into modular components (Back shock & swing arm)* <br><br>
+### Physics
+  * *Bike model split into modular components (Back shock & swing arm)* <br><br>
 ![roost-phys-demo01](https://user-images.githubusercontent.com/34845402/131231640-0d91fed4-75d4-4001-8a88-b31c32bfd24b.gif)
 ![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)
 <br><br>
-    * *Wheel collider fitted to tire model* <br><br>
+   * *Number of gears, current gear and start gear as well as each gears ratio, minimum & maximum RPM are set*  <br><br>
+![roost-gear01](https://user-images.githubusercontent.com/34845402/131616716-ed811c5a-b499-4132-9493-7a9df75a7b41.png)
+<br><br>
+   * *Engine input curve is adjusted for desired torque* <br><br>
+ ![roost-engine01](https://user-images.githubusercontent.com/34845402/131616445-8037852f-b079-4caa-9757-2b49cd4e3570.png)
+ <br><br>
+  * *Wheel collider fitted to tire model* <br><br>
 ![roost-phys-demo02](https://user-images.githubusercontent.com/34845402/131231633-64165a26-16f7-4efd-85dd-f52200a966e8.gif)
  <br><br>
-    * *Bike components moving as intended, scaling down & back up again during suspension compression* <br><br>
+   * *Various parameters are fine-tuned for the front & back wheels*  <br><br>
+![roost-wheel00](https://user-images.githubusercontent.com/34845402/131617393-6b21d64c-7749-430b-bd6d-b7395ce0f2da.png)
+<br><br>
+  * *Bike components moving as intended*
+  * *Each modular component scales down & back up again during a state of suspension compression* <br><br>
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
 ![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br><br>
 
-* ### Terrain
-    * *Spawn, FX and MX track locations are set*  <br><br>
+### Terrain
+  * *Spawn, FX and MX track locations are set*  <br><br>
 ![terriain-desing00](https://user-images.githubusercontent.com/34845402/131232468-8fe6db56-cfd8-467b-9695-48850e68e45c.gif)<br><br>
-    * *Jumps, berms and whoops are hand crafted*  <br><br>
+  * *Jumps, berms and whoops are hand crafted*  <br><br>
 ![terriain-desing01 (2)](https://user-images.githubusercontent.com/34845402/131232512-047d70ae-dd57-489e-a151-2c008ad16c9d.gif)<br><br>
-    * *Empty spaces are filled in with grass and props*  <br><br>
+  * *Empty spaces are filled in with grass and props*  <br><br>
 ![terriain-desing02](https://user-images.githubusercontent.com/34845402/131232513-2b29d9d4-38e8-48dd-a72b-e4fe7c3e46a6.gif)
 ![terriain-desing03](https://user-images.githubusercontent.com/34845402/131232515-a33e5938-4fe9-45ec-a224-910f4eb94c29.gif)<br><br>
-    * *Spawn point (campground) is polished*  <br><br>
+  * *Spawn point (campground) is polished*  <br><br>
 ![terriain-desing04 (2)](https://user-images.githubusercontent.com/34845402/131232516-6624db6b-e903-4ad5-b676-03b00b02474d.gif)
 ![terriain-desing05](https://user-images.githubusercontent.com/34845402/131232517-567c2ef7-660e-4faa-846f-e7f08dac4042.gif) <br><br>
 
-* ### UI
-    * *An early UI build (Pre Color System)*  <br><br>
+### UI
+  * *An early UI build (Pre Color System)*  <br><br>
 ![roost-ui01](https://user-images.githubusercontent.com/34845402/131607067-b9caa977-7c53-409b-8290-5ce2d5225f19.gif)
 
-* ### Current Update
-    * ***v.1.0 (December, 2019)*** <br><br>
+### Current Update
+  * ***v.1.0 (December, 2019)*** <br><br>
 ![roost-illust-v02](https://user-images.githubusercontent.com/34845402/131584617-0c46bd76-2595-4eb4-b7dd-7aa39e7b8cca.png)<br><br>
 
 ***
