@@ -13,7 +13,21 @@
 * [Roost](#roost)
   * [Play](#play)
   * [Features](#features)
+    * [Physics Based Movement](#physics-based-movement)
+    * [Post Processing V2](#post-processing-v2)
+    * [Responsive UI](#responsive-ui)
+    * [Color System](#color-system)
+    * [Low Poly Design](#low-poly-design)
+    * [Cross Platform Capability](#cross-platform-capability)
   * [Development](#development)
+    * [Physics](#physics)
+    * [Terrain](#terrain)
+    * [UI](#ui)
+    * [Current Update](#current-update)
+  * [Demos](#demos)
+    * [Welcome to Mirage Gameplay Trailer](#welcome-to-mirage-gameplay-trailer)
+    * [Menu with Bike Color System](#menu-with-bike-color-system)
+    * [Soundtrack](#soundtrack)
 
 ***
 
@@ -29,39 +43,44 @@
 ***
 
 ## Features
-* ### **Physics-Based Movement** <br><br>
-    * *Fully responsive suspension simulation defined by 20+ parameters* <br><br>
-    * **Variable system of balance**
-        * *Roll, pitch & yaw move independently to simulate the true feel of a mx bike* <br><br>
-![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)<br>
-![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)<br><br>
-    * **Wheel colliders**
-        * *Semi-realistic torque, compression & traction* <br><br>
+### Physics Based Movement
+
+  * *Fully responsive suspension simulation defined by 20+ parameters* <br><br>
+  * **Variable system of balance**
+      * *Roll, pitch & yaw move independently to simulate the true feel of a mx bike* <br><br>
+![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)<br><br>
+  * **Customizable Engine and Transmission**
+      * *Set **number of gears** as well as each gears **ratio, minimum** & **maximum RPM*** <br>
+      * *Set engine ignition and an **input curve** controlling torgue output per unit of input* <br><br>
  ![ezgif com-optimize (1)](https://user-images.githubusercontent.com/34845402/71435589-7baf5d80-269e-11ea-9432-80d7f4a6e810.gif)<br/><br/>
+  * **Wheel Colliders**
+      * *Semi-realistic ground collision & tire traction* <br><br>
+![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)<br><br>
 
-* **Post-Processing V2**  
-    * *Combines complete set of rendered effects into a single pipeline*<br/><br/>
 
-* ### **Responsive UI**  
-    * *Responsive elements fit for any landscape resolution*<br/><br/>
+### Post Processing V2
+  * *Combines complete set of rendered effects into a single pipeline*<br/><br/>
+
+### Responsive UI
+  * *Responsive elements fit for any landscape resolution*<br/><br/>
 ![roost-menu-demo00](https://user-images.githubusercontent.com/34845402/131198290-7bc626e1-2459-4208-8642-014e7915e209.gif)<br><br>
 
-* ### **Color System**
-    * *Eight customizable bike parts using **16,777,216** possible hex colors or **6** premade textures*<br/><br/>
+### Color System
+  * *Eight customizable bike parts using **16,777,216** possible hex colors or **6** premade textures*<br/><br/>
  ![roost-menu-demo02](https://user-images.githubusercontent.com/34845402/131198475-e4dd3f9e-2a88-46c9-b65c-faba4e241489.gif)<br><br>
 
-* ### **Low Poly Design** 
-    * *Bike/Character models contain a ***reduced*** poly count* <br><br>
+### Low Poly Design
+  * *Bike/Character models contain a ***reduced*** poly count* <br><br>
 ![campsite02](https://user-images.githubusercontent.com/34845402/131205336-930cec8a-b22d-4d61-97dd-32d5c2e781d7.png) <br><br>
-    * *Environment models contain a ***very low*** poly count*<br/><br/>
+  * *Environment models contain a ***very low*** poly count*<br/><br/>
 ![campsite](https://user-images.githubusercontent.com/34845402/131205438-814026ec-0cd2-40c4-be26-f3280486861c.png)<br><br>
 
-* ### **Cross-Platform Capability**  
-    * *Runs on PC, macOS, iOS and Android*
+### Cross Platform Capability
+  * *Runs on PC, macOS, iOS and Android*
 ***
 
 ## Development
-* ### **Physics**:  
+* ### Physics
     * *Bike model split into modular components (Back shock & swing arm)* <br><br>
 ![roost-phys-demo01](https://user-images.githubusercontent.com/34845402/131231640-0d91fed4-75d4-4001-8a88-b31c32bfd24b.gif)
 ![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)
@@ -72,8 +91,9 @@
     * *Bike components moving as intended, scaling down & back up again during suspension compression* <br><br>
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
+![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br><br>
 
-* ### **Terrain**:  
+* ### Terrain
     * *Spawn, FX and MX track locations are set*  <br><br>
 ![terriain-desing00](https://user-images.githubusercontent.com/34845402/131232468-8fe6db56-cfd8-467b-9695-48850e68e45c.gif)<br><br>
     * *Jumps, berms and whoops are hand crafted*  <br><br>
@@ -85,10 +105,38 @@
 ![terriain-desing04 (2)](https://user-images.githubusercontent.com/34845402/131232516-6624db6b-e903-4ad5-b676-03b00b02474d.gif)
 ![terriain-desing05](https://user-images.githubusercontent.com/34845402/131232517-567c2ef7-660e-4faa-846f-e7f08dac4042.gif) <br><br>
 
-* ### **Update v1.0**:  
-    * ***(December, 2019)*** <br><br>
+* ### UI
+    * *An early UI build (Pre Color System)*  <br><br>
+![roost-ui01](https://user-images.githubusercontent.com/34845402/131607067-b9caa977-7c53-409b-8290-5ce2d5225f19.gif)
+
+* ### Current Update
+    * ***v.1.0 (December, 2019)*** <br><br>
 ![roost-illust-v02](https://user-images.githubusercontent.com/34845402/131584617-0c46bd76-2595-4eb4-b7dd-7aa39e7b8cca.png)<br><br>
 
+***
+
+## Demos
+##### **Click to watch on YouTube *(Readme file doesn't allow video playback)*** <br>
+### Welcome to Mirage Gameplay Trailer
+[![roost-yt-00](https://user-images.githubusercontent.com/34845402/131611284-e762c392-b6d5-469f-9c54-57f87ef487a5.png)](https://www.youtube.com/watch?v=6BNveRmHrCw)
+
+### Menu with Bike Color System
+[![roost-yt-01](https://user-images.githubusercontent.com/34845402/131611281-c900bca1-56eb-43c5-9681-b9fbab82a5da.png)](https://www.youtube.com/watch?v=l61BHNf-hAs)
+
+### Soundtrack
+[![roost-st](https://user-images.githubusercontent.com/34845402/131610204-27f33b7c-67df-401a-b068-09dc82df14b7.png)](https://www.youtube.com/watch?v=u7FOEnUcaLw)
+
+| Track | Artist | Link |
+| --------------- | --------------- | --------------- |
+| In Time | Stellardrone | https://www.youtube.com/watch?v=Jgm9i19joeQ |
+| Another World | Bettogh | https://www.youtube.com/watch?v=mOjkP1myYgE |
+| Ranger |  Chew Chew | https://www.youtube.com/watch?v=WAGBl2IRJOo |
+| In the 1980's | Simon Bichbihler | https://www.youtube.com/watch?v=KhSmZ1cD1BQ |
+| Light Years | Stellardrone | https://www.youtube.com/watch?v=OMPE4pO1i_Y |
+| Yah | Yung Wunda | https://www.youtube.com/watch?v=jszFCfcGTYc |
+
+* *I do not own these songs. All included song and artist names have been listed along with links to each respective original upload. These songs are used only in a non-profit, educational form. Not for commercial distribution.* 
+<br><br>
 
 ***
 
