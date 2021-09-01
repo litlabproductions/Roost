@@ -4,7 +4,9 @@
 #### Based on replication of 250/450cc dirt bike physics  
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
-[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)<br><br>
+[Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)<br>
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This repo a contains a build ***not*** source code
+<br>
 ***
 
 ## Table of contents
@@ -25,7 +27,6 @@
 ![roostlogo-resize03](https://user-images.githubusercontent.com/34845402/131585723-dcd5eed5-0184-48d6-b94e-c469b5ce6758.png)
 <br><br><br>
 ***
-<br>
 
 ## Features
 * ### **Physics-Based Movement** <br><br>
@@ -41,7 +42,7 @@
 * **Post-Processing V2**  
     * *Combines complete set of rendered effects into a single pipeline*<br/><br/>
 
-* ### **Gorgeous UI**  
+* ### **Responsive UI**  
     * *Responsive elements fit for any landscape resolution*<br/><br/>
 ![roost-menu-demo00](https://user-images.githubusercontent.com/34845402/131198290-7bc626e1-2459-4208-8642-014e7915e209.gif)<br><br>
 
