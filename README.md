@@ -44,9 +44,7 @@
 ***
 <br><br>
 ![roostlogo-resize03](https://user-images.githubusercontent.com/34845402/131585723-dcd5eed5-0184-48d6-b94e-c469b5ce6758.png)
-<br><br><br>
-***
-<br>
+<br><br>
 
 ## Features
 ### Physics Based Movement
@@ -106,8 +104,8 @@
       * *The **BWheel** game objects **Wheel** script is attached to this **Suspension** scripts **Wheel** parameter* <br><br><br>
    * A **Suspension Part** script is attached to the **SwingArmPivot** game object <br><br>
 ![roost-susp05](https://user-images.githubusercontent.com/34845402/131626129-e75d1ef3-e063-4493-9e72-38fa31c1768a.png)
-      * The **BSusp** game objects **Suspension** script is then attached to this **Suspension Part** scripts **Suspension** parameter
-      * The **BTire** game objects **Transform** is attached to this **Suspension Part** scripts **Connect Obj** parameter <br><br>
+      * *The **BSusp** game objects **Suspension** script is then attached to this **Suspension Part** scripts **Suspension** parameter*
+      * *The **BTire** game objects **Transform** is attached to this **Suspension Part** scripts **Connect Obj** parameter* <br><br>
  
 ### Transmission
    * Number of gears and start gear as well as each gears ratio, minimum & maximum RPM are set  <br><br>
@@ -130,10 +128,9 @@
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
 ![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br>
-      * To scale down & back up again during a state of suspension compression (as seen with the front and back suspension above), a game object requires both an attached mesh renderer component and parent with a fully configured Suspension script
+      * *To scale down & back up again during a state of suspension compression (as seen with the front and back suspension above), a game object requires both an attached mesh renderer component and parent with a fully configured Suspension script*
       
 <br><br>
-<br>
 
 ***
 
