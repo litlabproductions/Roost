@@ -14,10 +14,10 @@
   - [Play](#play)
   - [Features](#features)
     - [Physics Based Movement](#physics-based-movement)
-    - [Post Processing V2](#post-processing-v2)
     - [Responsive UI](#responsive-ui)
     - [Color System](#color-system)
     - [Low Poly Design](#low-poly-design)
+    - [Post Processing V2](#post-processing-v2)
     - [Cross Platform Capability](#cross-platform-capability)
   * [Physics Development](#physics-development)
     * [Suspension](#suspension)
@@ -64,9 +64,6 @@
 ![ezgif com-optimize (2)](https://user-images.githubusercontent.com/34845402/71435590-7d792100-269e-11ea-9291-2514322c6ce4.gif)
       * Semi-realistic ground collision & tire traction<br><br><br>
 
-### Post Processing V2
-  * *Combines complete set of rendered effects into a single pipeline*<br/><br/><br>
-
 ### Responsive UI
 ![roost-menu-demo00](https://user-images.githubusercontent.com/34845402/131198290-7bc626e1-2459-4208-8642-014e7915e209.gif)
   * *Responsive elements fit for any landscape resolution*<br><br><br>
@@ -81,6 +78,9 @@
 
 ![campsite](https://user-images.githubusercontent.com/34845402/131205438-814026ec-0cd2-40c4-be26-f3280486861c.png)
   * *Environment models contain a ***very low*** poly count*<br><br><br>
+
+### Post Processing V2
+  * *Combines complete set of rendered effects into a single pipeline*<br/><br/><br>
 
 ### Cross Platform Capability
   * *Runs on PC, macOS, iOS and Android*
