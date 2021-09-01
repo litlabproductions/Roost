@@ -37,8 +37,9 @@
 
 ## Play
 
-&nbsp;&nbsp;&nbsp;&nbsp;There is only one build in this project.  
-&nbsp;&nbsp;&nbsp;&nbsp;It's live at [***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost)
+#### Try it Here:
+  1. &nbsp;&nbsp;[***LitLabProductions.com / Roost***](https://www.litlabproductions.com/roost) <br>
+  2. &nbsp;&nbsp;[***https://simmer.io/@LitLabProd/roost***](https://simmer.io/@LitLabProd/roost) 
 
 ***
 <br><br>
