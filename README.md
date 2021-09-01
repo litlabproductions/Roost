@@ -145,7 +145,7 @@
 | Light Years | Stellardrone | https://www.youtube.com/watch?v=OMPE4pO1i_Y |
 | Yah | Yung Wunda | https://www.youtube.com/watch?v=jszFCfcGTYc |
 
-* *I do not own these songs. All included song and artist names have been listed along with links to each respective original upload. These songs are used only in a non-profit, educational form. Not for commercial distribution.* 
+* *I do not own these songs. All included song and artist names have been listed along with links to each respective original upload. These songs are used only in a non-profit, educational form. Not for commercial distribution. Special thanks to the artists listed above.* 
 <br><br>
 
 ***
