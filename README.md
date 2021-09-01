@@ -130,7 +130,9 @@
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
 ![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br>
-      * *Each modular component scales down & back up again during a state of suspension compression* <br><br>
+      * To scale down & back up again during a state of suspension compression (as seen with the front and back suspension above), a game object requires both an attached mesh renderer component and parent with a fully configured Suspension script
+      
+<br><br>
 <br>
 
 ***
