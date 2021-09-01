@@ -10,17 +10,21 @@
 ***
 
 ## Table of contents
-* [Roost](#roost)
-  * [Play](#play)
-  * [Features](#features)
-    * [Physics Based Movement](#physics-based-movement)
-    * [Post Processing V2](#post-processing-v2)
-    * [Responsive UI](#responsive-ui)
-    * [Color System](#color-system)
-    * [Low Poly Design](#low-poly-design)
-    * [Cross Platform Capability](#cross-platform-capability)
-  * [Development](#development)
-    * [Physics](#physics)
+- [Roost](#roost)
+  - [Play](#play)
+  - [Features](#features)
+    - [Physics Based Movement](#physics-based-movement)
+    - [Post Processing V2](#post-processing-v2)
+    - [Responsive UI](#responsive-ui)
+    - [Color System](#color-system)
+    - [Low Poly Design](#low-poly-design)
+    - [Cross Platform Capability](#cross-platform-capability)
+  * [Physics Development](#physics-development)
+    * [Suspension](#suspension)
+    * [Transmission](#transmission)
+    * [Engine](#engine)
+    * [Wheels](#wheels)
+  * [Miscellaneous Development](#miscellaneous-development)
     * [Terrain](#terrain)
     * [UI](#ui)
     * [Current Update](#current-update)
@@ -79,29 +83,50 @@
   * *Runs on PC, macOS, iOS and Android*
 ***
 
-## Development
-### Physics
-  * *Bike model split into modular components (Back shock & swing arm)* <br><br>
+## Physics Development
+
+&nbsp;&nbsp;&nbsp;&nbsp;***Note:** A few examples of the development process are shown below* <br><br>
+  * Bike model is first split into modular components <br><br>
 ![roost-phys-demo01](https://user-images.githubusercontent.com/34845402/131231640-0d91fed4-75d4-4001-8a88-b31c32bfd24b.gif)
-![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)
-<br><br>
-   * *Number of gears, current gear and start gear as well as each gears ratio, minimum & maximum RPM are set*  <br><br>
+![roost-phys-demo03](https://user-images.githubusercontent.com/34845402/131231950-c000fa65-669d-41f6-b4df-6e3ccc191121.gif)<br>
+      * *Back shock & swing arm are shown*<br><br>
+      
+### Suspension
+   * A **Suspension** script is attached to the **BSusp** game object <br>
+      * The **BWheel** game objects **Wheel** script is attached to this **Suspension** scripts **Wheel** parameter<br><br>
+![roost-susp02](https://user-images.githubusercontent.com/34845402/131621390-080f0f88-217e-4ac0-a2c7-509fb40509f6.png)
+  <br><br>
+   * A **Suspension Part** script is attached to the **SwingArmPivot** game object <br>
+      * The **BSusp** game objects **Suspension** script is then attached to this **Suspension Part** scripts **Suspension** parameter
+      * The **BTire** game objects **Transform** is attached to this **Suspension Part** scripts **Connect Obj** parameter<br><br>
+![roost-susp05](https://user-images.githubusercontent.com/34845402/131626129-e75d1ef3-e063-4493-9e72-38fa31c1768a.png)
+ <br><br>
+ 
+### Transmission
+   * Number of gears, current gear and start gear as well as each gears ratio, minimum & maximum RPM are set  <br><br>
 ![roost-gear01](https://user-images.githubusercontent.com/34845402/131616716-ed811c5a-b499-4132-9493-7a9df75a7b41.png)
 <br><br>
-   * *Engine input curve is adjusted for desired torque* <br><br>
- ![roost-engine01](https://user-images.githubusercontent.com/34845402/131616445-8037852f-b079-4caa-9757-2b49cd4e3570.png)
+
+### Engine
+   * Engine input curve is adjusted for desired torque <br><br>
+![roost-engine01](https://user-images.githubusercontent.com/34845402/131616445-8037852f-b079-4caa-9757-2b49cd4e3570.png)
  <br><br>
-  * *Wheel collider fitted to tire model* <br><br>
+ 
+ ### Wheels
+   * Wheel collider fitted to tire model <br><br>
 ![roost-phys-demo02](https://user-images.githubusercontent.com/34845402/131231633-64165a26-16f7-4efd-85dd-f52200a966e8.gif)
  <br><br>
-   * *Various parameters are fine-tuned for the front & back wheels*  <br><br>
+   * Various parameters are fine-tuned for the front & back wheels  <br><br>
 ![roost-wheel00](https://user-images.githubusercontent.com/34845402/131617393-6b21d64c-7749-430b-bd6d-b7395ce0f2da.png)
-<br><br>
-  * *Bike components moving as intended*
-  * *Each modular component scales down & back up again during a state of suspension compression* <br><br>
+<br><br><br>
+  * Bike components moving as intended<br><br>
 ![roost-phys-demo04](https://user-images.githubusercontent.com/34845402/131231953-3dd4a6fb-a31c-4343-9316-14f0475a46c7.gif)
 ![roost-phys-demo05](https://user-images.githubusercontent.com/34845402/131232110-a6a491ab-3640-44e7-9075-02b532196c06.gif)<br><br>
-![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br><br>
+![roost-ui00](https://user-images.githubusercontent.com/34845402/131607060-3794b867-d929-4973-8903-85891af8f1bf.gif)<br>
+      * *Each modular component scales down & back up again during a state of suspension compression* <br><br>
+***
+
+## Miscellaneous Development 
 
 ### Terrain
   * *Spawn, FX and MX track locations are set*  <br><br>
