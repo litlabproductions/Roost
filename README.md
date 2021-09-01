@@ -86,9 +86,9 @@
 ![terriain-desing05](https://user-images.githubusercontent.com/34845402/131232517-567c2ef7-660e-4faa-846f-e7f08dac4042.gif) <br><br>
 
 * ### **Update v1.0**:  
+    * ***(December, 2019)*** <br><br>
 ![roost-illust-v02](https://user-images.githubusercontent.com/34845402/131584617-0c46bd76-2595-4eb4-b7dd-7aa39e7b8cca.png)<br><br>
 
-* ### **Credit**:  
 
 ***
 
