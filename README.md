@@ -5,7 +5,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;a [***Lit Lab Production***](https://www.litlabproductions.com)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;Built with [Unity3D](https://github.com/Unity-Technologies) and the 
 [Universal Render Pipeline](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html)<br>
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This repo a contains a build ***not*** source code
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;**Note:** This repo contains a build ***not*** source code
 <br>
 ***
 
