@@ -53,7 +53,7 @@
   * **Variable System of Balance**
 <br><br>
 ![ezgif com-optimize](https://user-images.githubusercontent.com/34845402/71435587-7a7e3080-269e-11ea-9343-a5d79f03a868.gif)
-      * *Roll, pitch & yaw move independently to simulate the true feel of a mx bike* <br><br><br>
+      * *Roll, pitch & yaw move independently to simulate the true feel of an mx bike* <br><br><br>
   * **Customizable Engine and Transmission**
  <br><br>
  ![ezgif com-optimize (1)](https://user-images.githubusercontent.com/34845402/71435589-7baf5d80-269e-11ea-9432-80d7f4a6e810.gif)
